@@ -1,6 +1,3 @@
-# Automated-VM-Scaling-to-Google-Cloud
-This setup ensures that when your local VM becomes overloaded (CPU usage > 75%), a new VM is automatically created in GCP, and the workload is seamlessly transferred. This automated system acts as a smart assistant, scaling resources without requiring manual intervention.
-
 # Automated Scaling and Resource Migration: From Local VM to Google Cloud Platform (GCP)
 
 This guide provides a step-by-step process to set up an automated system that monitors CPU usage on a local virtual machine (VM) and migrates workloads to Google Cloud Platform (GCP) when the CPU usage exceeds 75%. The system ensures seamless scaling and resource management without manual intervention.
